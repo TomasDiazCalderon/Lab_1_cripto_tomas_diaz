@@ -1,6 +1,6 @@
 Laboratorio 1 de Criptografía y Seguridad en redes de Tomás Díaz Calderón.
 
-Para realizar la actividad, se utilizaron los siguientes comandos:
+Para replicar la actividad, se utilizaron los siguientes comandos:
 
 - Actividad 1:
 
@@ -8,8 +8,10 @@ Para realizar la actividad, se utilizaron los siguientes comandos:
 
 - Actividad 2:
 
-        python3 pingv4.py "larycxpajorj h bnpdarmjm nw anmnb"
+  Comenzar una captura en Wireshark, luego ejecutar:
+
+      python3 pingv4.py "larycxpajorj h bnpdarmjm nw anmnb"
 
 - Actividad 3:
         
-        python3 readv2.py actividad_2_codigo.pcapng
+      python3 readv2.py actividad_2_codigo.pcapng
